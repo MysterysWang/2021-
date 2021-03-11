@@ -10,12 +10,12 @@
     <td>
       被坑经历
     </td>
-    <td>
+    <td width=“20%”>
     证据/图/链接
     </td>
   </tr>
   <tr>
-    <td width=“20%”>
+    <td >
       成都优卡信息科技gu
     </td>
     <td>
