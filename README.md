@@ -15,7 +15,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width=“20%”>
       成都优卡信息科技gu
     </td>
     <td>
